@@ -1,6 +1,6 @@
 # Connection Manager
 
-VB6 working copy of `Connection Manager` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: ConnManager. Output: `ConnManager.exe`. Manage connections to multiple Domains. `VersionCompanyName`: D. Robinson.
+D. Robinson VB6 Connection Manager (`ConnManager.exe`, © 2001): tray app that stores named multi-domain drive mappings in Jet `ConnManager.mdb` and connects them via `WNetAddConnection2` (Add New / Connect). Open `ConnManager.vbp` in the VB6 IDE (needs `flshtray.ocx`).
 
 **Source last updated:** 2001-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
